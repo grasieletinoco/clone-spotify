@@ -2,7 +2,7 @@
 
 
 
-![](C:\Users\PC2\Downloads\spotify\Spotify.png)
+![Clone Spotify](https://raw.githubusercontent.com/grasieletinoco/clone-spotify/main/assets/img/clone-spotify.png)
 
 
 
